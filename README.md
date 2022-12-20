@@ -1,3 +1,5 @@
+# OpenSea NFT Stats Listing, Sales, and Alert Bot
+
 <h1 align="center">OpenSea NFT Notification Bot</h1>
 <div align="center">
 
@@ -27,12 +29,18 @@ NFT Notice allows you to track the stats, listings, and sales of your OpenSea co
 
 ## Features
 
-- Get the OpenSea collection stats
-- Get the OpenSea listing updates of a collection
-- Get the OpenSea sales updates of a collection
-- Send the listing, collection stats, and sales updates to a Discord server
-- Send the listing, collection stats, and sales updates to a Telegram group
-- Send the listing, collection stats, and sales updates to a Twitter post
+🎉Get the collection stats, listing,sales on opensea
+🎉Send the listing, collection stats, and sales updates to a Discord server
+🎉 Covering all marketplaces and platforms
+🎉 Platforms: Discord, Telegram, Twitter, WhatsApp, Email
+🎉 Integration with Discord community server in just one minute
+🎉 Sale and listing bot for Discord and Twitter
+🎉 Real-time collection tracking and instant notifications
+🎉 Real-time collection stats displayed to discrod community
+🎉 Automated posting on Twitter to keep audience informed
+🎉 Fully customizable messages and notifications
+🎉 Whale tracker notifier to track big players in the market
+🎉 Custom alerts for targeted NFT listings at the right price
 
 ## Installation
 
