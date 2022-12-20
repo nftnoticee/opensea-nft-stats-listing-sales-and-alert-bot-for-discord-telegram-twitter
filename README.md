@@ -9,7 +9,7 @@
 </a>
 	<span> ┃ </span>
 	
-  <a href="https://discord.gg/xHgnePtV7s" style="margin-top: 12px;">
+  <a href="https://discord.gg/5zMQCsuhEJ" style="margin-top: 12px;">
   <img  align="center" alt="Discord link" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 	  <code>Join our discord Server</code>
 </a>
@@ -23,7 +23,9 @@
 <br />
 
 </div>
-NFT Notice allows you to track the stats, listings, and sales of your OpenSea collections. It also allows you to receive updates on these events in Discord, Telegram, and Twitter.
+NFT Notice allows you to track the stats, listings, and sales of your OpenSea collections. It also allows you to receive updates on these events in Discord, Telegram, and Twitter.The NFT Notice team has created this repository to provide sample code for retrieving sales and listings events from Opensea. Our goal is to create clear and easy-to-understand code that can be used as a starting point for building your own NFT sales and listings project. If you have any questions or need help with the code or if you want to buy a membership, please don't hesitate to reach out to us on our homepage or Discord channel.
+
+
 
 ## Features
 
