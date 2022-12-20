@@ -52,7 +52,7 @@ To install and use this bot, you will need to have Node.js and npm installed on 
 
 ## Configuration
 
-To use this bot, you will need to provide the following information in a `.env` file in the root of the project:
+To use this bot, you will need to provide following apis keys to the bot, if you want us to handle all of this stuff You can buy membership buy opening a ticket in our discord server. 
 
 - `DISCORD_TOKEN`: The Discord API token for your bot
 - `TELEGRAM_TOKEN`: The Telegram API token for your bot
@@ -65,12 +65,7 @@ To use this bot, you will need to provide the following information in a `.env` 
 ## Usage
 
 To use this bot, you will need to add it to your Discord, Telegram, and/or Twitter account, and invite it to any channels or groups where you want to receive updates.
-
-Once the bot is running, you can use the following commands to track your OpenSea collections:
-
-- `!stats [collectionName]`: Get the stats for the specified collection
-- `!listings [collectionName]`: Get the latest listings for the specified collection
-- `!sales [collectionName]`: Get the latest sales for the specified collection
+If you have any questions or need help with the code or if you want to buy a membership, please don't hesitate to reach out to us on our homepage or Discord channel.
 
 ## Other Marketplaces we are covering.
 
