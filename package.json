@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "opensea discord telegram twitter notification bot shows stats listing sales alerts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "opensea",
+    "discord",
+    "telegram",
+    "twitter",
+    "notification",
+    "bot",
+    "shows",
+    "stats",
+    "listing",
+    "sales",
+    "alerts"
+  ],
+  "author": "nft notice",
+  "license": "ISC"
+}
