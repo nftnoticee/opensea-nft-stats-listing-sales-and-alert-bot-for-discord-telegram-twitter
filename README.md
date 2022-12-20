@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="http://www.nftnotice.net/">
-  <img align="center" alt="nftwzrd" width="45px" src="https://raw.githubusercontent.com/nftnoticee/opensea-nft-stats-listing-sales-and-alert-bot-for-discord-telegram-twitter/35e990ebacd2ffb5adc4469773c0531645d799b1/logo-no-background.svg" />
+  <img align="center" alt="nftwzrd" width="55px" src="https://raw.githubusercontent.com/nftnoticee/opensea-nft-stats-listing-sales-and-alert-bot-for-discord-telegram-twitter/35e990ebacd2ffb5adc4469773c0531645d799b1/logo-no-background.svg" />
 	<code>nftnotice.net</code>
 </a>
 	<span> ┃ </span>
