@@ -23,7 +23,7 @@
 <br />
 
 </div>
-This project is a bot that allows you to track the stats, listings, and sales of your OpenSea collections. It also allows you to receive updates on these events in Discord, Telegram, and Twitter.
+NFT Notice allows you to track the stats, listings, and sales of your OpenSea collections. It also allows you to receive updates on these events in Discord, Telegram, and Twitter.
 
 ## Features
 
