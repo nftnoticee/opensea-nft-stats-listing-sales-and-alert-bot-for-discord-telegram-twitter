@@ -65,6 +65,18 @@ Once the bot is running, you can use the following commands to track your OpenSe
 - `!listings [collectionName]`: Get the latest listings for the specified collection
 - `!sales [collectionName]`: Get the latest sales for the specified collection
 
+## Other Marketplaces we are covering.
+
+- 💥 alphaart
+- 💥 Binance
+- 💥 digitaleyes
+- 💥 looksrare
+- 💥 Magic eden
+- 💥 opensea
+- 💥 Paintswap
+- 💥 Solanaart
+- 💥 x2y2
+
 ## Contributing
 
 We welcome contributions to this project! If you have an idea for a new feature or find a bug, please open an issue or submit a pull request.
