@@ -1,5 +1,3 @@
-# OpenSea NFT Stats Listing, Sales, and Alert Bot
-
 <h1 align="center">OpenSea NFT Notification Bot</h1>
 <div align="center">
 
